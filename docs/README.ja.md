@@ -1,6 +1,7 @@
 # AgentRouter Daily
 
 [简体中文](../README.md) · [English](README.en.md) · [繁體中文](README.zh-Hant.md) · **日本語** · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+> バージョン：**v1.0.0**（2026-11-24）
 
 AgentRouter の毎日クレジットはログインで付与されます。本ツールはユーザー名と
 パスワードでログインし、`data.checked_in` を厳密に判定します。

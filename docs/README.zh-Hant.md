@@ -1,6 +1,7 @@
 # AgentRouter Daily
 
 [简体中文](../README.md) · [English](README.en.md) · **繁體中文** · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+> 版本：**v1.0.0**（2026-11-24）
 
 AgentRouter 的每日額度由登入觸發。本工具使用帳號密碼登入，並嚴格讀取
 `data.checked_in` 狀態。
